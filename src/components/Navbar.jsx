@@ -1,14 +1,21 @@
-import {AppBar,Toolbar,Typography,TextField} from "@mui/material"
+import {AppBar,Toolbar,Typography} from "@mui/material"
+import DrawerApp from "./DrawerApp"
 
 const Navbar = () =>{
     return(
         <>
             <AppBar>
-                <Toolbar>
+                <Toolbar sx={{display:"flex",justifyContent:"space-between"}}>
                     <Typography>
-                        Nombre de la tienda
+                        Nombre de la tienda o logotipo
                     </Typography>
-                    {{/*<TextField label="Buscar producto" variant="filled" color="secondary"/>*/}}
+                    <Typography>
+                        Input busqueda
+                    </Typography>
+                    <Typography>
+                        carrito compra
+                    </Typography>
+
                 </Toolbar>
             </AppBar>
         </>

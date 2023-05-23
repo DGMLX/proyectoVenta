@@ -17,7 +17,7 @@ import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 
 const drawerWidth = 200;
 
-function App(props) {
+function HomePage(props) {
   const { window } = props;
   const [mobileOpen, setMobileOpen] = React.useState(false);
 
@@ -129,4 +129,4 @@ function App(props) {
 }
 
 
-export default App;
+export default HomePage;
