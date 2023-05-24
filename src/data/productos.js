@@ -10,7 +10,7 @@ const productos = [
         stock:true,
         cantidadStock:2,
         imagenes:"../../img/poleronnikeair.jpg",
-        categoria:"",
+        categoria:"polerones",
         sexo:""
     },
     {
@@ -24,7 +24,7 @@ const productos = [
         stock:true,
         cantidadStock:2,
         imagenes:"../../img/zapatillasairforce1.jpg",
-        categoria:"",
+        categoria:"zapatillas",
         sexo:""
     },
     {
@@ -38,7 +38,7 @@ const productos = [
         stock:true,
         cantidadStock:2,
         imagenes:"../../img/lentes.jpg",
-        categoria:"",
+        categoria:"lentes",
         sexo:""
     },{
         nombre:"Polera manga larga jaskel",
@@ -51,7 +51,7 @@ const productos = [
         stock:true,
         cantidadStock:2,
         imagenes:"../../img/poleramangalarga.jpg",
-        categoria:"",
+        categoria:"poleras",
         sexo:""
     },{
         nombre:"Gorro vicera plana jejeje",
@@ -64,7 +64,7 @@ const productos = [
         stock:true,
         cantidadStock:2,
         imagenes:"../../img/gorro.jpg",
-        categoria:"",
+        categoria:"gorros",
         sexo:""
     },{
         nombre:"Pantalon lewis",
@@ -77,7 +77,7 @@ const productos = [
         stock:true,
         cantidadStock:2,
         imagenes:[],
-        categoria:"",
+        categoria:"pantalones",
         sexo:""
     },
     {
@@ -91,7 +91,7 @@ const productos = [
         stock:true,
         cantidadStock:2,
         imagenes:"",
-        categoria:"",
+        categoria:"chaquetas",
         sexo:""
     },
     {
@@ -105,7 +105,7 @@ const productos = [
         stock:true,
         cantidadStock:2,
         imagenes:"../../img/buzodeportivo.png",
-        categoria:"",
+        categoria:"faldas",
         sexo:""
     },
     {
@@ -119,7 +119,7 @@ const productos = [
         stock:true,
         cantidadStock:2,
         imagenes:"../../img/buzodeportivo.png",
-        categoria:"",
+        categoria:"vestidos",
         sexo:""
     },
     {
@@ -133,7 +133,7 @@ const productos = [
         stock:true,
         cantidadStock:2,
         imagenes:"../../img/buzodeportivo.png",
-        categoria:"",
+        categoria:"calcetas",
         sexo:""
     },
     {
@@ -147,7 +147,7 @@ const productos = [
         stock:true,
         cantidadStock:2,
         imagenes:"../../img/buzodeportivo.png",
-        categoria:"",
+        categoria:"ropa interior",
         sexo:""
     },
     {
